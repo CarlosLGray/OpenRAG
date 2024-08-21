@@ -138,6 +138,18 @@ This guide will walk you through the process of setting up and running the OpenR
 
      **Windows:**
      ```cmd
+     npm install
+     ```
+
+     **Linux/Mac OS:**
+     ```bash
+     npm install
+     ```
+4. **Start the Chatbot**
+   - Run the following command to start the Chatbot:
+
+     **Windows:**
+     ```cmd
      npm run start
      ```
 
