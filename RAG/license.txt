@@ -1,0 +1,21 @@
+Custom License
+
+Copyright (c) 2024 Carlos L. Gray
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), 
+to use, copy, modify, merge, publish, and distribute the Software for private, non-commercial purposes, subject to the following conditions:
+
+Non-Commercial Use: This Software is provided for private, non-commercial use only. Any use of the Software for commercial purposes, including but 
+not limited to selling, licensing, or incorporating the Software into a product intended for commercial sale, requires the prior written consent of 
+the copyright holder.
+
+Attribution: Any private use of the Software must retain the above copyright notice, this list of conditions, and the following disclaimer in all 
+copies or substantial portions of the Software.
+
+No Warranty: The Software is provided "as is", without warranty of any kind, express or implied, including but not limited to the warranties of 
+merchantability, fitness for a particular purpose, and noninfringement. In no event shall the authors or copyright holders be liable for any claim, 
+damages, or other liability, whether in an action of contract, tort, or otherwise, arising from, out of, or in connection with the Software or the 
+use or other dealings in the Software.
+
+Consent Requirement: For any use not explicitly allowed by this license, including but not limited to commercial use, you must obtain prior written 
+permission from the copyright holder, Carlos L. Gray.
