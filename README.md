@@ -1,3 +1,19 @@
+# OpenRAG Project
+
+The **OpenRAG** project is dedicated to securing funding for ongoing development and new AI-driven projects. By creating and sharing innovative open-source tools like the Retrieval-Augmented Generation (RAG) framework, we aim to advance AI technology and support future initiatives in this space.
+
+## Support the Project
+
+If you find this project useful and would like to support its ongoing development, please consider making a donation:
+
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://www.paypal.com/donate/?business=FQDLJUCG8MQ3L&no_recurring=0&item_name=The+OpenRAG+project+is+dedicated+to+securing+funding+for+ongoing+development+and+new+AI-driven+projects.&currency_code=USD)
+
+Bitcoin: bc1qea2qw3k65v3930l0tdxmt25tlztkhaulz3gp4d
+
+Ethereum: 0xCc76D9D79636Da61F308ae2Ac040605Bca3316A0
+
+Your contribution will help fund ongoing development and support new projects within the OpenRAG initiative.
+
 # OpenRAG Setup Guide
 
 This guide will walk you through the process of setting up and running the OpenRAG project on both Windows and Linux/Mac OS.
